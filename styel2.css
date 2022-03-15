@@ -1,0 +1,49 @@
+table{
+  border: none;
+  text-align: center;
+}
+
+input.display{
+  width: 410px;
+  height: 50px;
+  background-color: rgb(51, 124, 153);
+  color: seashell;
+  font-size: 35px;
+  padding-right: 10px;
+}
+
+.btn-number{
+  /* ボタンのサイズ */
+  width: 100px;
+  height: 100%;
+  font-size:30px;
+  /* クリック時の黒枠を消す */
+  outline-color: blue;
+  outline: none;  
+}
+
+.btn-other2{
+  /* ボタンのサイズ */
+  width: 210px;
+  height: 100%;
+  font-size:30px;
+  /* クリック時の黒枠を消す */
+}
+.operator{
+  /* ボタンのサイズ */
+  width: 100px;
+  height: 100%;
+  font-size:30px;
+  /* クリック時の黒枠を消す */
+  outline-color: blue;
+  outline: none;  
+}
+
+input.equal{
+  /* ボタンのサイズ */
+  width: 210px;
+  height: 100%;
+  font-size:30px;
+  /* クリック時の黒枠を消す */
+  outline: none;  
+}
